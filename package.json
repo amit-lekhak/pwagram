@@ -10,13 +10,15 @@
     "pwa",
     "progressive",
     "web",
-    "app",
-    "complete",
-    "tutorial"
+    "app"
+    
   ],
   "author": "Amit Lekhak",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^0.12.3"
+  },
+  "dependencies": {
+    "workbox-cli": "^6.1.1"
   }
 }
